@@ -1,0 +1,12 @@
+{
+  "description": "meta reasoning / chain of thought",
+  "allowed_predicates": [
+    "Requires",
+    "Enables",
+    "Inhibits",
+    "Supports",
+    "Contradicts",
+    "RelatedTo",
+    "SubgoalOf"
+  ]
+}

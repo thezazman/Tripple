@@ -1,0 +1,19 @@
+{
+  "description": "medicine / nephrology",
+  "allowed_predicates": [
+    "IsA",
+    "PartOf",
+    "HasA",
+    "Uses",
+    "Causes",
+    "LocatedIn",
+    "InstanceOf",
+    "Requires",
+    "Enables",
+    "Affords",
+    "Inhibits",
+    "RelatedTo",
+    "Contradicts",
+    "Supports"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "description": "meta reasoning / hypothesis testing",
+  "allowed_predicates": [
+    "Requires",
+    "Enables",
+    "Inhibits",
+    "Supports",
+    "Contradicts",
+    "RelatedTo",
+    "SubgoalOf"
+  ]
+}

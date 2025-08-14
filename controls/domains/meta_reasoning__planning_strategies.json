@@ -1,0 +1,12 @@
+{
+  "description": "meta reasoning / planning strategies",
+  "allowed_predicates": [
+    "Requires",
+    "Enables",
+    "Inhibits",
+    "Supports",
+    "Contradicts",
+    "RelatedTo",
+    "SubgoalOf"
+  ]
+}
