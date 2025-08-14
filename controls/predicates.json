@@ -1,0 +1,24 @@
+{
+  "predicates": {
+    "IsA": {},
+    "PartOf": {},
+    "HasA": {},
+    "Uses": {},
+    "Causes": {},
+    "LocatedIn": {},
+    "CapableOf": {},
+    "Synonym": {},
+    "Antonym": {},
+    "Desires": {},
+    "Opposes": {},
+    "RelatedTo": {},
+    "SubgoalOf": {},
+    "Affords": {},
+    "Inhibits": {},
+    "InstanceOf": {},
+    "Requires": {},
+    "Enables": {},
+    "Contradicts": {},
+    "Supports": {}
+  }
+}

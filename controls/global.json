@@ -1,0 +1,53 @@
+{
+  "min_confidence": 0.6,
+  "required_fields": [
+    "subject",
+    "predicate",
+    "object",
+    "domain",
+    "confidence",
+    "source",
+    "created_at",
+    "license",
+    "method",
+    "hash"
+  ],
+  "allowed_predicates": [
+    "IsA",
+    "PartOf",
+    "HasA",
+    "Uses",
+    "Causes",
+    "LocatedIn",
+    "CapableOf",
+    "Synonym",
+    "Antonym",
+    "Desires",
+    "Opposes",
+    "RelatedTo",
+    "SubgoalOf",
+    "Affords",
+    "Inhibits",
+    "InstanceOf",
+    "Requires",
+    "Enables",
+    "Contradicts",
+    "Supports"
+  ],
+  "disallowed_patterns": {
+    "subject": [
+      "(?i)ssn|social security|credit card",
+      "(?i)password",
+      "(?i)private key|seed phrase"
+    ],
+    "object": [
+      "(?i)ssn|social security|credit card",
+      "(?i)password",
+      "(?i)private key|seed phrase"
+    ]
+  },
+  "min_text_len": 1,
+  "max_text_len": 220,
+  "hash_algo": "sha256",
+  "enforce_domain_predicates": true
+}

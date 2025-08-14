@@ -1,0 +1,10 @@
+{
+  "pii_terms": [
+    "password",
+    "ssn",
+    "social security",
+    "credit card",
+    "private key",
+    "seed phrase"
+  ]
+}
