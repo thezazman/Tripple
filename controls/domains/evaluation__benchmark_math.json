@@ -1,0 +1,11 @@
+{
+  "description": "evaluation / benchmark math",
+  "allowed_predicates": [
+    "Requires",
+    "Enables",
+    "Supports",
+    "Contradicts",
+    "RelatedTo",
+    "SubgoalOf"
+  ]
+}

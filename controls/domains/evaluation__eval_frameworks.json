@@ -1,0 +1,11 @@
+{
+  "description": "evaluation / eval frameworks",
+  "allowed_predicates": [
+    "Requires",
+    "Enables",
+    "Supports",
+    "Contradicts",
+    "RelatedTo",
+    "SubgoalOf"
+  ]
+}

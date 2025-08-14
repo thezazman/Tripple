@@ -1,0 +1,11 @@
+{
+  "description": "evaluation / adversarial eval",
+  "allowed_predicates": [
+    "Requires",
+    "Enables",
+    "Supports",
+    "Contradicts",
+    "RelatedTo",
+    "SubgoalOf"
+  ]
+}

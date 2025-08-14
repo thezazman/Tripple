@@ -1,0 +1,11 @@
+{
+  "description": "evaluation / benchmark gsm8k",
+  "allowed_predicates": [
+    "Requires",
+    "Enables",
+    "Supports",
+    "Contradicts",
+    "RelatedTo",
+    "SubgoalOf"
+  ]
+}

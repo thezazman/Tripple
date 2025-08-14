@@ -1,0 +1,13 @@
+{
+  "description": "engineering / power systems",
+  "allowed_predicates": [
+    "Requires",
+    "Enables",
+    "Uses",
+    "Affords",
+    "Inhibits",
+    "RelatedTo",
+    "SubgoalOf",
+    "Supports"
+  ]
+}

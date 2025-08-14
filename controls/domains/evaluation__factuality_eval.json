@@ -1,0 +1,11 @@
+{
+  "description": "evaluation / factuality eval",
+  "allowed_predicates": [
+    "Requires",
+    "Enables",
+    "Supports",
+    "Contradicts",
+    "RelatedTo",
+    "SubgoalOf"
+  ]
+}
